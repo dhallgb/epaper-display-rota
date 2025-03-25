@@ -8,6 +8,6 @@ The secrets are:
 - wifi SSID and password
 - ChurchSuite userid and password
 
-  Other than these, the code is reasonably generic.
-  ---
-  **Note:** as of March 2025, ChurchSuite does not expose the Rotas module as an endpoint in their v2 API, so this code of necessity exports a CSV file and converts this to XML
+Other than these, the code is reasonably generic.
+---
+**Note:** as of March 2025, ChurchSuite does not expose the Rotas module as an endpoint in their v2 API, so this code of necessity exports a CSV file and converts this to XML
