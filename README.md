@@ -3,6 +3,7 @@ This code was forked from xxx and changed to access the ChurchSuite rotas module
 As such there are several secrets, and several secrets. Specifics:
 - module access endpoint URL
 - specific rota name
+
 The secrets are:
 - wifi SSID and password
 - ChurchSuite userid and password
